@@ -14,9 +14,9 @@ Git - это одна из реализаций распределённых с�
 Для того, чтобы посмотреть состояние репозитория используется команда *git status*, и Вы увидите были ли изменения в файлах или их не было.
 
 ## Работа с ветками
- git branch name - создать ветку
- git branch - выводит список веток
- git delete name - удалить ветку
+git branch name - создать ветку
+git branch - выводит список веток
+git delete name - удалить ветку
 
 ### Выбор ветки
 git chekout name_branch - для выбора ветки, в которой хотим работать 
@@ -26,6 +26,16 @@ git log --graph - в терминале, справа, будет разделе
 
 ### Слияние
 git merge name - слияние выбраной ветки, в основную. Основная ветка часто будет master или main.
+
+прим(дальше буду писать на английском, чтобы лучше и быстрее усвоить технический английский)
+## Work with GitHub
+
+git clone - moving on  website GitHube in order to do copy information through the function fork in local file.
+
+git pull - this command it is needed  in order to extract and download content from a remote repository and update the local repository with this content.
+
+git push - this command it is needed in order to local repository with this content sent to remote repository to download a file
+
 
 
 
